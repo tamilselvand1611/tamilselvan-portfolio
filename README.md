@@ -1,30 +1,33 @@
 # Tamil Selvan D
-
 Final Year B.E. Computer Science and Engineering student aspiring to become a
 Data Analyst, with a strong interest in working with data to extract meaningful
 insights and support data-driven decision making.
 
 ## Skills
-- Data Analysis: MS Excel, SQL (MySQL)
-- Programming: Python (Learning),Java (Basics)
-- Databases: MySQL
-- Tools: Git (Basic)
-- Concepts: DBMS, Data Handling, Problem Solving
-
+- Python
+- SQL
+- PowerBI
+- Machine Learnning
+- Data Science
+- Data Analysis
+- Git and GitHub
+- MS Excel
+  
 ## Projects
-- Library Management System (Data Handling & SQL)
-- Smart Farmer System (IoT Data Collection & Analysis)
-- Final Year Project (In Progress)
+- Sleep Stress Prediction
+- AI Pencil Sketch Generator
+- PowerBI Sales Dashboard
+- PowerBI Customer Analysis Dashboard
 
 ## Experience
 - Internship at Gateway Software Solutions
 
 ## Achievements
 - Rank 14 – Indian Talent Exam
-- Participated in technical workshops
+- HackerRank 4⭐ in Python 
 
 ## Career Goal
-- Entry-level Data Analyst / Data-related roles
+- Python Developer, Data Analyst
 
 ## Contact
 - Email: tamilselvand1611@gmail.com
